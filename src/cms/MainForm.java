@@ -22,10 +22,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.border.LineBorder;
 
-/**
- *
- * @author shree
- */
+
 public class MainForm extends javax.swing.JFrame {
 
     /**
